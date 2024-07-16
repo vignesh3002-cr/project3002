@@ -1,0 +1,85 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+.project{
+    background-color: aqua;
+    padding: 20px;
+    border-radius: 0%;
+}
+.h1{
+    display: inline;
+}
+.up{
+    display: inline;
+    margin-left: 70%;
+    padding: 10px;
+    border-radius: 45%;
+    background-color: black;
+    color: aliceblue;
+    border: 0cap;
+    cursor: pointer;
+}
+.out{
+    display: inline;
+    padding: 10px;
+    border-radius: 45%;
+    background-color: black;
+    color: aliceblue;
+    border: 0cap;
+    cursor: pointer;
+}
+.search
+{
+    margin-left: 20%;
+    margin-top: 15px;
+    padding: 5px;
+    width: 60%;
+}
+.img1 img{
+    height: 70px;
+    width: 70px;
+    display: block;
+}
+.img1 button{
+    border-top: 0cap;
+    border-left: 0cap;
+    border-right: 0cap;
+    background-color: white;
+    cursor: pointer;
+}
+.img1{
+    display: inline-block;
+    margin-left: 2%;
+    margin-top: 3%;
+}
+.products{
+     margin-left: 13%;
+     margin-right: 13%;
+}
+.img2 img{
+    height: 70px;
+    width: 70px;
+    display: block;
+}
+.img2 select{
+    border-top: 0cap;
+    border-left: 0cap;
+    border-right: 0cap;
+    background-color: white;
+    cursor: pointer;
+}
+.img2{
+    display: inline-block;
+    margin-left: 2%;
+    margin-top: 3%;
+}
+
+
+
+
+
+
+
+
